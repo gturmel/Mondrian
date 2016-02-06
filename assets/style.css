@@ -1,0 +1,79 @@
+body {
+   background-color: #eee;
+}
+
+.canvas {
+   background-color: #fff4db;
+   margin: 10%;
+   height: 40em;
+   width: 40em;
+   /*box-shadow: 10px 10px 1px gray;*/
+}
+
+.top-painting {
+   float: right;
+   display: inline-block;
+   width: 100%;
+   height: 62%;
+}
+
+.big-block {
+   background-color: #cc3333;
+   float:right;
+   height: 100%;
+   width: 70%;
+   /*border: 2px solid green;*/
+}
+.long-line {
+   /*border:*/
+   height: 100%;
+   width: 2.5%;
+   background-color: black;
+   float: right;
+   display: inline-block;
+}
+.top-left {
+   width: 27.5%;
+   height: 45%;
+   display: inline-block;
+   /*background-color: green;*/
+   margin-top: none;
+   margin-bottom: none;
+   /*border: 1px solid black;*/
+}
+.small-line {
+   display: inline-block;
+   background-color: black;
+   width: 27.5%;
+   height: 5%;
+}
+.medium-line {
+   display: inline-block;
+   background-color: black;
+   height: 5%;
+   width: 100%;
+   margin: none;
+}
+.bottom-painting {
+   width: 100%;
+   height: 32%;
+}
+.small-box {
+   height: 40%;
+   width: 10%;
+   float: right;
+   margin: none;
+}
+.little-line {
+   height: 10%;
+   width: 10%;
+   background-color: black;
+   float: right;
+   /*border: 1px solid black;*/
+}
+.bottom-left {
+   background-color: blue;
+   height: 100%;
+   width: 27.5%;
+
+}
